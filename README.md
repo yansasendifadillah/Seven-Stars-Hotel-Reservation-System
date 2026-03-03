@@ -4,8 +4,8 @@ Nama Tim : ITZY
 
 Nama Anggota :
 
-   1. Yansa Sendi Fadillah
-   2. Ester Ananda Natalia
+   1. Yansa Sendi Fadillah (2431417086)
+   2. Ester Ananda Natalia (2431417040)
 
 
       Link Tugas :
