@@ -10,4 +10,4 @@ Nama Anggota :
 
       Link Tugas :
 
-      - [Link PPT]([url](https://www.canva.com/design/DAHCx6UG3Ts/01tvMPrxFIS8htztSCzKPA/edit?utm_content=DAHCx6UG3Ts&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+      - [Link PPT](https://www.canva.com/design/DAHCx6UG3Ts/01tvMPrxFIS8htztSCzKPA/edit?utm_content=DAHCx6UG3Ts&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
