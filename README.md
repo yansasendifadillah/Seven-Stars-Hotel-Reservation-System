@@ -13,3 +13,4 @@ Nama Anggota :
       - [Link Laporan](https://docs.google.com/document/d/1J0jRX-KYNwUtWAtDrRsOhOtaENkb_llMlR477ZVY8DY/edit?usp=sharing)
       - [Link figma](https://www.figma.com/design/GUbx5l2yQUiEUukyzf17yQ/Untitled?node-id=0-1&t=IXVrQsIXMmVxb2A2-1)
       - [Link PPT](https://canva.link/894n42a3yr6fktw)
+      - [Link GantChartt](https://docs.google.com/spreadsheets/d/1YO951ptKbiVu7DsVpL9nMbqnUWGLscpoiCmrE8jEXeA/edit?gid=0#gid=0)
